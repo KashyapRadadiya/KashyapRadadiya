@@ -31,7 +31,7 @@
 - **ML/AI Tools:** TensorFlow | PyTorch | Pandas | NumPy  
 
 ---
-
+<!--
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -40,7 +40,7 @@
 </p>
 
 ---
-
+-->
 ## 🤝 Let’s Collaborate!  
 
 I’m open to opportunities in **Software Development, DevOps, Cloud, and AI/ML projects**.  
